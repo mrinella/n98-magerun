@@ -133,7 +133,7 @@ HELP;
 
                 // comment
                 case '#':
-                    continue;
+                    continue 2;
                     break;
 
                 // set var
